@@ -10,6 +10,7 @@ Every file is attached to a **[Release](https://github.com/Shaggy405/share/relea
 |---|---|---|---|
 | Heartbeat Monitor | 1.4.0 | Windows 10/11 | [Heartbeat-Monitor-1.4.0-Windows.exe](https://github.com/Shaggy405/share/releases/tag/heartbeat-monitor-v1.4.0) |
 | Parlor Games | 0.20.1 | Windows 10/11 | [Parlor-Games-0.20.1-Windows.exe](https://github.com/Shaggy405/share/releases/tag/parlor-games-v0.20.1-windows) |
+| Parlor Games | 0.20.1 | Android | [Parlor-Games-0.20.1-Android.apk](https://github.com/Shaggy405/share/releases/tag/parlor-games-v0.20.1) |
 
 ### Heartbeat Monitor
 
@@ -27,7 +28,9 @@ It is a single `.exe`: download it and double-click. Nothing is installed, and y
 
 Blackjack, roulette, craps and mahjong solitaire, played with pretend chips. No real money, no ads, no account. You start with 10,000 chips.
 
-It is a single `.exe`: download it and double-click. Nothing is installed, and your chips are saved in `%APPDATA%\Godot\app_userdata\Parlor Games\`.
+On Windows it is a single `.exe`: download it and double-click. Nothing is installed, and your chips are saved in `%APPDATA%\Godot\app_userdata\Parlor Games\`.
+
+On Android, open the release page on your phone, tap the `.apk` under **Assets**, then open the download. If Android says it's from an unknown source, allow it for this install. If Play Protect says the app is unrecognized, choose **More details**, then **Install anyway**. It doesn't run on iPhone.
 
 ## First launch warning
 
