@@ -26,7 +26,7 @@ It is a single `.exe`: download it and double-click. Nothing is installed, and y
 
 ### Parlor Games
 
-Blackjack, roulette, craps and mahjong solitaire, played with pretend chips. No real money, no ads, no account. You start with 10,000 chips.
+Blackjack, roulette, craps, poker (Texas Hold'em and 5 Card Draw) and mahjong solitaire, played with pretend chips. No real money, no ads, no account. You start with 10,000 chips.
 
 On Windows it is a single `.exe`: download it and double-click. Nothing is installed, and your chips are saved in `%APPDATA%\Godot\app_userdata\Parlor Games\`.
 
