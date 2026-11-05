@@ -9,8 +9,8 @@ Every file is attached to a **[Release](https://github.com/Shaggy405/share/relea
 | App | Version | Platform | Download |
 |---|---|---|---|
 | Heartbeat Monitor | 1.4.0 | Windows 10/11 | [Heartbeat-Monitor-1.4.0-Windows.exe](https://github.com/Shaggy405/share/releases/tag/heartbeat-monitor-v1.4.0) |
-| Parlor Games | 0.22.0 | Windows 10/11 | [Parlor-Games-0.22.0-Windows.exe](https://github.com/Shaggy405/share/releases/tag/parlor-games-v0.22.0-windows) |
-| Parlor Games | 0.22.0 | Android | [Parlor-Games-0.22.0-Android.apk](https://github.com/Shaggy405/share/releases/tag/parlor-games-v0.22.0) |
+| Parlor Games | 0.23.0 | Windows 10/11 | [Parlor-Games-0.23.0-Windows.exe](https://github.com/Shaggy405/share/releases/tag/parlor-games-v0.23.0-windows) |
+| Parlor Games | 0.23.0 | Android | [Parlor-Games-0.23.0-Android.apk](https://github.com/Shaggy405/share/releases/tag/parlor-games-v0.23.0) |
 
 ### Heartbeat Monitor
 
