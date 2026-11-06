@@ -9,8 +9,8 @@ Every file is attached to a **[Release](https://github.com/Shaggy405/share/relea
 | App | Version | Platform | Download |
 |---|---|---|---|
 | Heartbeat Monitor | 1.4.0 | Windows 10/11 | [Heartbeat-Monitor-1.4.0-Windows.exe](https://github.com/Shaggy405/share/releases/tag/heartbeat-monitor-v1.4.0) |
-| Parlor Games | 0.23.0 | Windows 10/11 | [Parlor-Games-0.23.0-Windows.exe](https://github.com/Shaggy405/share/releases/tag/parlor-games-v0.23.0-windows) |
-| Parlor Games | 0.23.0 | Android | [Parlor-Games-0.23.0-Android.apk](https://github.com/Shaggy405/share/releases/tag/parlor-games-v0.23.0) |
+| Parlor Games | 0.24.0 | Windows 10/11 | [Parlor-Games-0.24.0-Windows.exe](https://github.com/Shaggy405/share/releases/tag/parlor-games-v0.24.0-windows) |
+| Parlor Games | 0.24.0 | Android | [Parlor-Games-0.24.0-Android.apk](https://github.com/Shaggy405/share/releases/tag/parlor-games-v0.24.0) |
 
 ### Heartbeat Monitor
 
@@ -26,7 +26,7 @@ It is a single `.exe`: download it and double-click. Nothing is installed, and y
 
 ### Parlor Games
 
-Blackjack, roulette, craps, poker (Texas Hold'em and 5 Card Draw) and mahjong solitaire, played with pretend chips. No real money, no ads, no account. You start with 10,000 chips.
+Blackjack, roulette, craps, poker (Texas Hold'em and 5 Card Draw), slots, pachinko and mahjong solitaire, played with pretend chips. No real money, no ads, no account. You start with 10,000 chips.
 
 On Windows it is a single `.exe`: download it and double-click. Nothing is installed, and your chips are saved in `%APPDATA%\Godot\app_userdata\Parlor Games\`.
 
